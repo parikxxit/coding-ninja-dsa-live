@@ -7,7 +7,7 @@ d. First column(bottom to top)
  Mind that every element will be printed only once.
 */
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 void spiralPrint(int **input, int nRows, int nCols)
